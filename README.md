@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Peter and I'm an old-school (not quite a million years old, but getting there) computer nerd.
 
-- 🔭 I’m currently working on **non-public projects**.
-- ⚡ Currently learning *font creation*. 
+- 🔭 Currently working on **non-public depositories**.
+- ⚡ Currently learning *font creation*.
+- 😄 Website: [pharaoh.se](https://pharaoh.se)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bash,bootstrap,cloudflare,codepen,debian,discord,docker,dotnet,figma,git,github,gmail,grapql,gulp,ai,kubernetes,linux,nextjs,nginx,npm,sass,sublime,svg,twitter,ubuntu,vscode)](https://skillicons.dev)
