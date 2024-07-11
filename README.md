@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **xorpid/xorpid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Peter and I'm an old-school (not quite a million years old, but getting there) computer nerd.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorpid)](https://github.com/xorpid/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,svg,astro,scss,bash,bootstrap,cloudflare,codepen,debian,discord,docker,dotnet,figma,git,github,gmail,grapql,gulp,ai,kubernetes,linux,nextjs,nginx,npm,postman,raspberrypi,sass,sublime,twitter,ubuntu,vscode)](https://skillicons.dev)
