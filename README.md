@@ -20,4 +20,4 @@ My name is Peter and I'm an old-school (not quite a million years old, but getti
 - ⚡ Currently learning *font creation*.
 - 😄 Website: [pharaoh.se](https://pharaoh.se)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bash,bootstrap,cloudflare,codepen,debian,discord,docker,dotnet,figma,git,github,gmail,grapql,gulp,ai,kubernetes,linux,nextjs,nginx,npm,sass,sublime,svg,twitter,ubuntu,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,bash,cloudflare,git,github,gmail,linux,nextjs,npm,svg,vscode)](https://skillicons.dev)
